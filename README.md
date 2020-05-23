@@ -1,4 +1,4 @@
-# explicit_img_detector
-A simple classifier that detects whether an mage contains explicit content or not
+# explicit_image_detector
+A simple classifier that detects whether an image contains explicit content or not
 
-Read the walkthough file for instructions on how to use.
+Check included word document for instructions
